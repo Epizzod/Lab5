@@ -1,0 +1,14 @@
+﻿  lab_5_V14.cpp
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_5_V14\lab_5_V14.cpp(206,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_5_V14\lab_5_V14.cpp(205): message : во время компиляции функции-члена класс шаблон "const T &DequeBasedOnArray<T>::operator [](int) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_5_V14\lab_5_V14.cpp(200): message : выполняется компиляция ссылки на экземпляр шаблон функции "const T &DequeBasedOnArray<T>::operator [](int) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_5_V14\lab_5_V14.cpp(291): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DequeBasedOnArray<int>"
+  lab_5_V14.vcxproj -> C:\Users\diden\Desktop\ворк\вуз\vs\lab_5_V14\x64\Debug\lab_5_V14.exe
